@@ -562,7 +562,7 @@ var zen_settings = {
 		},
 
 		'abbreviations': {
-			'a': '<a href="">',
+			'a': '<a href="" title="">',
 			'a:link': '<a href="http://|">',
 			'a:mail': '<a href="mailto:|">',
 			'abbr': '<abbr title="">',
